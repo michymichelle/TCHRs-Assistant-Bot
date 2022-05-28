@@ -6,10 +6,6 @@ Displays stats and user info for team members. Stats are connected and updated v
 
 Use ! as command prefix. For example, !help
 
-Type !help for a list of commands and their corresponding details.
-
-Join the Discord at https://discord.gg/cDzaS34Sh4
-
-Reach out to @michymichelle on the Discord server for questions or suggestions.
+Type !help for a list of commands and their corresponding details. Join the Discord at https://discord.gg/cDzaS34Sh4 Feel free to reach out to @michymichelle on the Discord server for questions or suggestions.
 
 Disclaimer: Discord bot client ID has since been changed upon posting code to Github for security purposes. 
