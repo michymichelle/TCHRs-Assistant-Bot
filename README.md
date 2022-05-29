@@ -1,6 +1,4 @@
 # TCHRs-Assistant-Bot
-**Quick Overview:**
-
 **Project Title:**
 
 TCHR's Assistant
