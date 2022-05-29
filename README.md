@@ -1,4 +1,4 @@
-# TCHRs-Assistant-Bot
+# TCHR's Assistant Bot
 ## Description:
 Discord bot designed specifically for TCHR, a competitive team on the typing platform Nitrotype.com. 
 https://www.nitrotype.com/team/TCHR
