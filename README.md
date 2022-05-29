@@ -1,11 +1,9 @@
 # TCHRs-Assistant-Bot
 **Project Title:**
-
 TCHR's Assistant
 
 
 **Description:**
-
 Discord bot designed specifically for TCHR, a competitive team on the typing platform Nitrotype.com. 
 https://www.nitrotype.com/team/TCHR
 
@@ -15,7 +13,6 @@ Created and developed entirely by @michymichelle, https://www.nitrotype.com/race
 
 
 **Motivation:**
-
 In the summer of 2020, I became actively involved with a small community on the typing game platform called Nitrotype, a competitive typing test game. Many of its users have Discord. In the game, you can join teams and compete  with others on a leaderboard. Each team is ranked based on how many activity points each team gains in the last 7 days. I am currently on a team called TCHR, and I've gotten pretty involved with team management.
 I wanted to develop a Discord bot using Python that will be able to connect to a spreadsheet I've created for displaying user activity and other statistics.
 Our team has a pay schedule where we pay our members in-game currency every week dependent on their activity. We originally calculated this in a rather manual manner, but the bot will now be able to calculate the correct amount with a single command. This command will also be available to regular players, which can encourage higher team activity.
