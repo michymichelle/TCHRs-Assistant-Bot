@@ -29,7 +29,7 @@ This bot was developed specifically for the TCHR team. The command prefix for th
 All of the commands are listed via a help command. Once the bot has been invited to a server, type _.tchrhelp_ in any channel. The bot will return a helpful list of all commands and a brief description of how to use each one.
 For example, _.tchrhelp_
 
-Join the Discord at https://discord.gg/cDzaS34Sh4 Feel free to reach out to @michymichelle on the Discord server for questions or suggestions.
+Join the Discord at https://discord.gg/cDzaS34Sh4. Feel free to reach out to @michymichelle on the Discord server for questions or suggestions.
 
 **Disclaimer:**
 Discord bot client ID has since been changed upon posting code to Github for security purposes. 
